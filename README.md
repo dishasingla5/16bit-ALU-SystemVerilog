@@ -84,19 +84,13 @@ The ALU accepts two 16-bit inputs (`A` and `B`) and performs the selected operat
 
 │   └── alubit.sv
 
-│
-
 ├── tb
 
-│   └── tb\_alubit.sv
-
-│
+│   └── tb_alubit.sv
 
 ├── docs
 
 │   └── waveform.png
-
-│
 
 └── README.md
 
